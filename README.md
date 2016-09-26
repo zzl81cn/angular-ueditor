@@ -7,6 +7,7 @@ The goal is to use UEditor whit angular easier
 ## Demo
 
 http://zqjimlove.github.io/angular-ueditor/ 
+http://showcase.ngnice.com/#/thirdparty/baiduueditor
 
 ## Installation
 
